@@ -14,9 +14,9 @@
     "general": {
       "title": "ReactMap",
       "headerTitle": "ReactMap",
-      "startLat": 0,
-      "startLon": 0,
-      "startZoom": 12,
+      "startLat": -31.7333,
+      "startLon": -60.5333,
+      "startZoom": 13,
       "minZoom": 10,
       "maxZoom": 18
     }
